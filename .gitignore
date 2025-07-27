@@ -1,0 +1,21 @@
+
+# Virtual Environment
+venv/
+nlp-course-venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
